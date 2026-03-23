@@ -7,3 +7,7 @@ For more details on the Nand2Tetris course: [https://www.nand2tetris.org/](https
 **Project 1: Boolean Logic**
 
 - Objective: Implementation of all the logic gates of Chapter 1 using the Hardware Description Language (HDL) specified in the book.
+
+**Project 2: Boolean Arithmetic**
+
+- Objective: Implementation of all the chips (Adder, ALU etc.) of Chapter 2 using the Hardware Description Language (HDL) specified in the book.

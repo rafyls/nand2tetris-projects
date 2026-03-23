@@ -15,3 +15,7 @@ For more details on the Nand2Tetris course: [https://www.nand2tetris.org/](https
 **Project 3: Memory**
 
 - Objective: Implementation of all the chips (Register, PC, RAM etc.) of Chapter 3 using the Hardware Description Language (HDL) specified in the book.
+
+**Project 4: Machine Language**
+
+- Objective: Writing and execution of two low-level programs written in the Hack assembly language.

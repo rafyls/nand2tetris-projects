@@ -1,0 +1,30 @@
+// This file is part of www.nand2tetris.org
+// and the book "The Elements of Computing Systems"
+// by Nisan and Schocken, MIT Press.
+// File name: projects/2/Inc16.hdl
+/**
+ * 16-bit incrementer:
+ * out = in + 1
+ */
+CHIP Inc16 {
+    IN in[16];
+    OUT out[16];
+
+    PARTS:
+    FullAdder(a=in[0],b=true,c=false,sum=out[0],carry=i1);
+    FullAdder(a=in[1],b=i1,c=false,sum=out[1],carry=i2);
+    FullAdder(a=in[2],b=i2,c=false,sum=out[2],carry=i3);
+    FullAdder(a=in[3],b=i3,c=false,sum=out[3],carry=i4);
+    FullAdder(a=in[4],b=i4,c=false,sum=out[4],carry=i5);
+    FullAdder(a=in[5],b=i5,c=false,sum=out[5],carry=i6);
+    FullAdder(a=in[6],b=i6,c=false,sum=out[6],carry=i7);
+    FullAdder(a=in[7],b=i7,c=false,sum=out[7],carry=i8);
+    FullAdder(a=in[8],b=i8,c=false,sum=out[8],carry=i9);
+    FullAdder(a=in[9],b=i9,c=false,sum=out[9],carry=i10);
+    FullAdder(a=in[10],b=i10,c=false,sum=out[10],carry=i11);
+    FullAdder(a=in[11],b=i11,c=false,sum=out[11],carry=i12);
+    FullAdder(a=in[12],b=i12,c=false,sum=out[12],carry=i13);
+    FullAdder(a=in[13],b=i13,c=false,sum=out[13],carry=i14);
+    FullAdder(a=in[14],b=i14,c=false,sum=out[14],carry=i15);
+    FullAdder(a=in[15],b=i15,c=false,sum=out[15],carry=i16);
+}

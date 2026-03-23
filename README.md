@@ -11,3 +11,7 @@ For more details on the Nand2Tetris course: [https://www.nand2tetris.org/](https
 **Project 2: Boolean Arithmetic**
 
 - Objective: Implementation of all the chips (Adder, ALU etc.) of Chapter 2 using the Hardware Description Language (HDL) specified in the book.
+
+**Project 3: Memory**
+
+- Objective: Implementation of all the chips (Register, PC, RAM etc.) of Chapter 3 using the Hardware Description Language (HDL) specified in the book.

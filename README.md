@@ -35,3 +35,7 @@ For more details on the Nand2Tetris course: [https://www.nand2tetris.org/](https
 **Project 8: Virtual Machine II: Control**
 
 - Objective: Extension of the previous basic VM translator  into a full-scale VM translator. This version of the VM translator assumes that the source VM code is error-free.
+
+**Project 9: High-Level Language**
+
+- Objective: Development of the game Tic-Tac-Toe using the Jack programming language over the Hack hardware platform. This game is designed to run on the supplied VM emulator.

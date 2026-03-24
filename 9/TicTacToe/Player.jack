@@ -1,0 +1,22 @@
+class Player {
+  field String name;
+
+  constructor Player new(String n) {
+    let name = n;
+    return this;
+  }
+
+  method void setName(String n) {
+    let name = n;
+    return;
+  }
+
+  method String getName() {
+    return name;
+  }
+
+  method void dispose() {
+    do Memory.deAlloc(this);
+    return;
+  }
+}

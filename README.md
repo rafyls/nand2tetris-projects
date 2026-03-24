@@ -19,3 +19,7 @@ For more details on the Nand2Tetris course: [https://www.nand2tetris.org/](https
 **Project 4: Machine Language**
 
 - Objective: Writing and execution of two low-level programs written in the Hack assembly language.
+
+**Project 5: Computer Architecture**
+
+- Objective: Implementation of the Hack computer (CPU, memory etc.) that is capable of running programs written in the Hack machine language.

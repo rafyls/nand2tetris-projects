@@ -23,3 +23,7 @@ For more details on the Nand2Tetris course: [https://www.nand2tetris.org/](https
 **Project 5: Computer Architecture**
 
 - Objective: Implementation of the Hack computer (CPU, memory etc.) that is capable of running programs written in the Hack machine language.
+
+**Project 6: Assembler**
+
+- Objective: Development of an assembler that translates programs written in Hack assembly language into Hack binary code. This version of the assembler assumes that the source assembly code is error-free.

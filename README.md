@@ -31,3 +31,7 @@ For more details on the Nand2Tetris course: [https://www.nand2tetris.org/](https
 **Project 7: Virtual Machine I: Processing**
 
 - Objective: Implementation of a basic VM translator that translates the arithmetic-logical and push / pop commands of the VM language specified in the book into the Hack assembly language. This version of the VM translator assumes that the source VM code is error-free.
+
+**Project 8: Virtual Machine II: Control**
+
+- Objective: Extension of the previous basic VM translator  into a full-scale VM translator. This version of the VM translator assumes that the source VM code is error-free.

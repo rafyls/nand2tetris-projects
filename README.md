@@ -27,3 +27,7 @@ For more details on the Nand2Tetris course: [https://www.nand2tetris.org/](https
 **Project 6: Assembler**
 
 - Objective: Development of an assembler that translates programs written in Hack assembly language into Hack binary code. This version of the assembler assumes that the source assembly code is error-free.
+
+**Project 7: Virtual Machine I: Processing**
+
+- Objective: Implementation of a basic VM translator that translates the arithmetic-logical and push / pop commands of the VM language specified in the book into the Hack assembly language. This version of the VM translator assumes that the source VM code is error-free.

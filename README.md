@@ -47,3 +47,7 @@ For more details on the Nand2Tetris course: [https://www.nand2tetris.org/](https
 **Project 11: Compiler II: Code Generation**
 
 - Objective: Extension of the previous basic syntax analyzer  into a full-scale Jack compiler that compiles Jack code into programs written in the VM language specified in the book and designed to run on the supplied VM emulator. This version of the syntax analyzer assumes that the source Jack code is error-free.
+
+**Project 12: Operating System**
+
+- Objective: Implementation of the operating system services (Screen, Keyboard, Math, String, Memory etc.) described in chapter 12 using the Jack language. The entire OS implementation can be tested by running the Pong game of this project on the supplied VM emulator.

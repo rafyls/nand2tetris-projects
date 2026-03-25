@@ -43,3 +43,7 @@ For more details on the Nand2Tetris course: [https://www.nand2tetris.org/](https
 **Project 10: Compiler I: Syntax Analysis**
 
 - Objective: Development of a syntax analyzer that parses Jack programs according to the Jack grammar. The output format is XML. This version of the syntax analyzer assumes that the source Jack code is error-free.
+
+**Project 11: Compiler II: Code Generation**
+
+- Objective: Extension of the previous basic syntax analyzer  into a full-scale Jack compiler that compiles Jack code into programs written in the VM language specified in the book and designed to run on the supplied VM emulator. This version of the syntax analyzer assumes that the source Jack code is error-free.

@@ -2,7 +2,7 @@
 
 Projects built while working through the Nand2Tetris course and its accompanying book, "The Elements of Computing Systems".
 
-For more details on the Nand2Tetris course: [https://www.nand2tetris.org/](https://www.nand2tetris.org/)
+For more details on the Nand2Tetris course: [https://www.nand2tetris.org/](https://www.nand2tetris.org/).
 
 **Project 1: Boolean Logic**
 
@@ -39,3 +39,7 @@ For more details on the Nand2Tetris course: [https://www.nand2tetris.org/](https
 **Project 9: High-Level Language**
 
 - Objective: Development of the game Tic-Tac-Toe using the Jack programming language over the Hack hardware platform. This game is designed to run on the supplied VM emulator.
+
+**Project 10: Compiler I: Syntax Analysis**
+
+- Objective: Development of a syntax analyzer that parses Jack programs according to the Jack grammar. The output format is XML. This version of the syntax analyzer assumes that the source Jack code is error-free.

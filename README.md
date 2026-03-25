@@ -50,4 +50,4 @@ For more details on the Nand2Tetris course: [https://www.nand2tetris.org/](https
 
 **Project 12: Operating System**
 
-- Objective: Implementation of the operating system services (Screen, Keyboard, Math, String, Memory etc.) described in chapter 12 using the Jack language. The entire OS implementation can be tested by running the Pong game of this project on the supplied VM emulator.
+- Objective: Implementation of the operating system services (Screen, Keyboard, Math, String, Memory etc.) described in Chapter 12 using the Jack language. The entire OS implementation can be tested by running the Pong game of this project on the supplied VM emulator.
